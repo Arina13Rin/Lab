@@ -1,0 +1,29 @@
+body
+{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: darkblue;
+}
+h1
+{
+    text-align: center;
+}
+a
+{
+    color:black;
+}
+p
+{
+    font-size: 14pt;
+}
+td
+{
+    margin:0px;
+    border: 1px solid darkblue;
+    text-align: center;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+table
+{
+    border-collapse: collapse;
+}
